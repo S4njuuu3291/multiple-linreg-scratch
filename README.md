@@ -81,10 +81,12 @@ Dataset yang digunakan dalam proyek ini diambil dari [Kaggle Vehicle Dataset fro
 - **Linear Regression**: Model linear menghasilkan prediksi dasar dengan tingkat error tertentu, dievaluasi menggunakan MSE.
 - **Polynomial Regression**: Model polynomial memberikan prediksi lebih akurat dengan memperhitungkan hubungan non-linear antara fitur dan target.
 
-**Contoh Visualisasi Hasil:**
+**Visualisasi Hasil:**
 - Linear Regression:
+
   ![Linear Regression](results/linear_result.png)
 - Polynomial Regression:
+
   ![Polynomial Regression](results/polynomial_result.png)
 
 ## **Teknologi yang Digunakan**
